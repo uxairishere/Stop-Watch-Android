@@ -3,4 +3,4 @@
 <h3>Development Software</h3>
 <p>Android Studio</p>
 <hr/>
-<img src="cover.jpg" width="100%" alt="cover image loading..." />
+<img src="cover.png" width="100%" alt="cover image loading..." />
